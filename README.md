@@ -185,7 +185,7 @@ Advanced coursework in data systems, cloud computing, software engineering, and 
 
 ## 🚀 Featured Projects
 
-### 🩸 [Blood Donor Connect](link-to-repo)
+### 🩸 [Blood Donor Connect](https://github.com/VAISHNAVI549/HemoPlus)
 **Android Application | Java, Firebase, Google Maps API**
 
 Innovative mobile solution connecting blood donors and recipients, improving accessibility and efficiency in blood donation networks. Enhanced emergency response times and streamlined the donation process.
@@ -200,7 +200,7 @@ Innovative mobile solution connecting blood donors and recipients, improving acc
 
 ---
 
-### 📈 [Sales Forecasting Analytics System](link-to-repo)
+### 📈 [Real Estate Sales Forecasting Analytics System](https://github.com/VAISHNAVI549/real-estate-analytics)
 **Data Analytics | Python, Pandas, Scikit-learn, Tableau**
 
 Comprehensive data analysis system processing 20 years of market data with **85% accuracy** in sales forecasting. Built ETL pipelines to transform raw data into actionable business insights.
@@ -275,9 +275,9 @@ I'm always excited to discuss data engineering, cloud solutions, and innovative 
 
 ### 🌐 Ready to Collaborate?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-yanamandra-66410a152/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaishnavi549.github.io/vaish-portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviyanamandra9@gmail.com)
 
 **📍 United States** | **🌐 Open to Remote & Hybrid Opportunities** | **💡 Passionate about Data & Innovation**
 
