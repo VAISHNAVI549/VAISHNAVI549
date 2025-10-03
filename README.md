@@ -113,7 +113,7 @@ class DataEngineer:
 
 ## 💼 Professional Journey
 
-### 🔷 **Sineris Web Services** | Data Engineer
+### <img src="https://logo.clearbit.com/sineris.com" alt="Sineris" height="25"/> Sineris Web Services | Data Engineer
 *Current*
 
 Leading cloud-native data engineering initiatives with advanced ETL pipelines and microservices architecture. Building scalable data solutions that drive innovation across diverse industries.
@@ -126,7 +126,7 @@ Leading cloud-native data engineering initiatives with advanced ETL pipelines an
 
 ---
 
-### 🔷 **ADP** | Data Engineer
+### <img src="https://logo.clearbit.com/adp.com" alt="ADP" height="25"/> ADP | Data Engineer
 *Previous Experience*
 
 Led enterprise-scale data engineering projects, building robust data transformation systems and ETL applications that served 50+ clients.
