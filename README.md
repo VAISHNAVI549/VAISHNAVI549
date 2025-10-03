@@ -6,11 +6,9 @@
 
 *Transforming raw data into powerful insights through scalable cloud solutions*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-yanamandra-66410a152/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaishnavi549.github.io/vaish-portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=VAISHNAVI549&color=6366f1&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviyanamandra9@gmail.com)
 
 </div>
 
