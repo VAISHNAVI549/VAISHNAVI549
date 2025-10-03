@@ -26,7 +26,7 @@ class DataEngineer:
         self.current_company = "Sineris Web Services"
         self.education = "MS Computer Information Systems (Dec 2024)"
         self.university = "Florida Institute of Technology"
-        self.certifications = ["AWS Certified Data Engineer"]
+        self.certifications = ["AWS Certified Solutions Architech Associate"]
         self.experience = "4+ years"
         
     def current_work(self):
@@ -55,7 +55,7 @@ class DataEngineer:
         return {
             "music": "Carnatic Classical Performer 🎵",
             "cooking": "Love experimenting with new recipes 👩‍🍳",
-            "awards": ["Student of the Year 2024-25", "NASTRONOMY Emerging Force"]
+            "awards": ["Outstanding Student of the Year 2024-25", "NASTRONOMY Emerging Force"]
         }
 ```
 
@@ -65,7 +65,7 @@ class DataEngineer:
 - 🏆 **AWS Certified Data Engineer** | **Student of the Year Award Winner**
 - 🌱 Focused on **AWS, ML Models, ETL, Data Science & Analytics**
 - 🎵 Trained **Carnatic Classical Music** performer
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **vaishnaviyanamandra9@gmail.com**
 
 ---
 
