@@ -154,7 +154,7 @@ Advanced coursework in data systems, cloud computing, software engineering, and 
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| 🥇 **AWS Certified Data Engineer** | Amazon Web Services | 2024 |
+| 🥇 **AWS Certified Solutions Architect Associate** | Amazon Web Services | 2024 |
 | 🌟 **Student of the Year Award** | Florida Institute of Technology | 2024-25 |
 | ⭐ **NASTRONOMY Emerging Force Award** | NASTRONOMY | 2024 |
 | 📊 **Google Data Analytics Professional** | Google | 2023 |
