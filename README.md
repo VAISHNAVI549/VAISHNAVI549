@@ -114,7 +114,7 @@ class DataEngineer:
 ## 💼 Professional Journey
 
 ### <img src="https://logo.clearbit.com/adp.com" alt="ADP" height="25"/> ADP | Data Engineer (Sales Data Engineering & Analytics)
-* Current *
+*Current*
 
 Driving the modernization of sales data systems by engineering automated ETL pipelines, cloud workflows, and analytics-ready datasets that power strategic decision-making across business teams.
 
