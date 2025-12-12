@@ -113,8 +113,22 @@ class DataEngineer:
 
 ## 💼 Professional Journey
 
+### <img src="https://logo.clearbit.com/adp.com" alt="ADP" height="25"/> ADP | Data Engineer (Sales Data Engineering & Analytics)
+*Present*
+
+Driving the modernization of sales data systems by engineering automated ETL pipelines, cloud workflows, and analytics-ready datasets that power strategic decision-making across business teams.
+
+**Key Contributions:
+- Developing automated ETL pipelines using Python, SQL, Databricks, and AWS
+- Building Snowflake data models for sales KPIs (attainment, comp tiers, performance metrics)
+- Implementing robust data-quality frameworks for accuracy and reliability
+- Automating data refresh pipelines using AWS Lambda + S3 for real-time reporting
+- Enabling leadership dashboards with standardized, high-quality datasets
+
+---
+
 ### <img src="https://logo.clearbit.com/sineris.com" alt="Sineris" height="25"/> Sineris Web Services | Data Engineer
-*Current*
+*Previous*
 
 Leading cloud-native data engineering initiatives with advanced ETL pipelines and microservices architecture. Building scalable data solutions that drive innovation across diverse industries.
 
