@@ -16,22 +16,22 @@
 
 ## 💫 About Me
 
-I'm a **Data Engineer** with **5+ years of experience** building production-grade ETL pipelines and architecting scalable data platforms that drive business impact. Currently working at **Sineris Web Services** as a Data Engineer, with a strong foundation in cloud-native technologies and modern data solutions.
+I'm a **Data Engineer** with **5+ years of experience** building production-grade ETL pipelines and architecting scalable data platforms that drive business impact. Currently working at **ADP Inc.,** as a Data Engineer, with a strong foundation in cloud-native technologies and modern data solutions.
 
 ```python
 class DataEngineer:
     def __init__(self):
         self.name = "Vaishnavi Yanamandra Venkata Sai"
         self.role = "Data Engineer"
-        self.current_company = "Sineris Web Services"
+        self.current_company = "ADP Inc.,"
         self.education = "MS Computer Information Systems (Dec 2024)"
         self.university = "Florida Institute of Technology"
         self.certifications = ["AWS Certified Solutions Architech Associate"]
-        self.experience = "4+ years"
+        self.experience = "5+ years"
         
     def current_work(self):
         return {
-            "company": "Sineris Web Services",
+            "company": "ADP",
             "role": "Data Engineer",
             "focus": [
                 "Cloud-Native Data Solutions",
@@ -43,7 +43,7 @@ class DataEngineer:
     
     def previous_experience(self):
         return {
-            "ADP": "Data Engineer",
+            "Sineris Web Services", "ADP": "Data Engineer",
             "responsibilities": [
                 "Enterprise-scale data migration (50+ clients)",
                 "Robust data transformation systems",
@@ -59,9 +59,9 @@ class DataEngineer:
         }
 ```
 
-- 💼 Currently working at **Sineris Web Services** as Data Engineer
+- 💼 Currently working at **ADP Inc.** as Data Engineer
 - 🎓 **MS in Computer Information Systems** from Florida Institute of Technology (Dec 2024)
-- 🏢 Previously worked at **ADP** as Data Engineer
+- 🏢 Previously worked at **Sineirs Web Services & ADP** as Data Engineer
 - 🏆 **AWS Certified Data Engineer** | **Student of the Year Award Winner**
 - 🌱 Focused on **AWS, ML Models, ETL, Data Science & Analytics**
 - 🎵 Trained **Carnatic Classical Music** performer
