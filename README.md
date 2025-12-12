@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm a **Data Engineer** with **4+ years of experience** building production-grade ETL pipelines and architecting scalable data platforms that drive business impact. Currently working at **Sineris Web Services** as a Data Engineer, with a strong foundation in cloud-native technologies and modern data solutions.
+I'm a **Data Engineer** with **5+ years of experience** building production-grade ETL pipelines and architecting scalable data platforms that drive business impact. Currently working at **Sineris Web Services** as a Data Engineer, with a strong foundation in cloud-native technologies and modern data solutions.
 
 ```python
 class DataEngineer:
